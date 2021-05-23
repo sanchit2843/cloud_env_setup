@@ -1,4 +1,4 @@
-sudo apt-get upgrade
+sudo apt-get update
 sudo apt install tmux
 git clone https://github.com/gpakosz/.tmux.git
 ln -s -f .tmux/.tmux.conf
