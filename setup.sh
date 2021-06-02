@@ -1,6 +1,7 @@
 sudo apt-get update
 sudo apt install tmux
 sudo apt-get install htop
+cd
 git clone https://github.com/gpakosz/.tmux.git
 ln -s -f .tmux/.tmux.conf
 cp .tmux/.tmux.conf.local .
